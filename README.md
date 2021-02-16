@@ -20,3 +20,11 @@ order list
   -sam
     + sam1
     + sam2
+## code
+```
+def fun():
+  "print("hello kits eee")
+```
+```
+fun()
+```
